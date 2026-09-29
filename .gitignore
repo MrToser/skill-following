@@ -1,0 +1,5 @@
+# LOCKED: false
+__pycache__/
+*.py[cod]
+/data/
+*.log

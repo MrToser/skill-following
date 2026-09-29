@@ -1,0 +1,6 @@
+setting,math_task_outcome,math_pcr,math_rf_pcr,search_task_outcome,search_pcr,search_rf_pcr
+Direct,55.44,,,12.37,,
+Prompt,0.83,0.93,0.00,2.05,5.71,0.00
+Recipe,85.18,,,40.70,,
+Ours-S,85.60,98.25,96.27,44.89,99.50,96.58
+Ours-J,82.95,99.27,92.90,46.61,99.96,95.40
